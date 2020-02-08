@@ -1,0 +1,28 @@
+
+body{
+font-weight: bold; 
+font-family: 'Anton', sans-serif;
+}
+
+img {
+width: 400px;
+height: 400px;
+}
+
+#rockimage {
+margin-left: 50px;
+}
+
+h1 {
+text-align: center;
+margin-right: 30px;
+}
+
+#rock {
+margin-left: 210px;
+margin-right: 320px;
+}
+
+#paper {
+margin-right: 300px;
+}
